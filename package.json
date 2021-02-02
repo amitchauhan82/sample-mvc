@@ -1,0 +1,19 @@
+{
+  "name": "sample-mvc",
+  "version": "1.0.0",
+  "description": "Front end packages for sample mvc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitchauhan82/sample-mvc.git"
+  },
+  "author": "Amit Chauhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amitchauhan82/sample-mvc/issues"
+  },
+  "homepage": "https://github.com/amitchauhan82/sample-mvc#readme"
+}
